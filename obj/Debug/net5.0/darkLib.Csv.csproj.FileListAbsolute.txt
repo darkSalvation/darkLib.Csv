@@ -1,0 +1,16 @@
+C:\Users\denni\OneDrive\Dokumente\source\darkLib.Csv\bin\Debug\net5.0\darkLib.Csv.exe
+C:\Users\denni\OneDrive\Dokumente\source\darkLib.Csv\bin\Debug\net5.0\darkLib.Csv.deps.json
+C:\Users\denni\OneDrive\Dokumente\source\darkLib.Csv\bin\Debug\net5.0\darkLib.Csv.runtimeconfig.json
+C:\Users\denni\OneDrive\Dokumente\source\darkLib.Csv\bin\Debug\net5.0\darkLib.Csv.runtimeconfig.dev.json
+C:\Users\denni\OneDrive\Dokumente\source\darkLib.Csv\bin\Debug\net5.0\darkLib.Csv.dll
+C:\Users\denni\OneDrive\Dokumente\source\darkLib.Csv\bin\Debug\net5.0\ref\darkLib.Csv.dll
+C:\Users\denni\OneDrive\Dokumente\source\darkLib.Csv\bin\Debug\net5.0\darkLib.Csv.pdb
+C:\Users\denni\OneDrive\Dokumente\source\darkLib.Csv\obj\Debug\net5.0\darkLib.Csv.csproj.AssemblyReference.cache
+C:\Users\denni\OneDrive\Dokumente\source\darkLib.Csv\obj\Debug\net5.0\darkLib.Csv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\OneDrive\Dokumente\source\darkLib.Csv\obj\Debug\net5.0\darkLib.Csv.AssemblyInfoInputs.cache
+C:\Users\denni\OneDrive\Dokumente\source\darkLib.Csv\obj\Debug\net5.0\darkLib.Csv.AssemblyInfo.cs
+C:\Users\denni\OneDrive\Dokumente\source\darkLib.Csv\obj\Debug\net5.0\darkLib.Csv.csproj.CoreCompileInputs.cache
+C:\Users\denni\OneDrive\Dokumente\source\darkLib.Csv\obj\Debug\net5.0\darkLib.Csv.dll
+C:\Users\denni\OneDrive\Dokumente\source\darkLib.Csv\obj\Debug\net5.0\ref\darkLib.Csv.dll
+C:\Users\denni\OneDrive\Dokumente\source\darkLib.Csv\obj\Debug\net5.0\darkLib.Csv.pdb
+C:\Users\denni\OneDrive\Dokumente\source\darkLib.Csv\obj\Debug\net5.0\darkLib.Csv.genruntimeconfig.cache
